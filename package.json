@@ -1,0 +1,29 @@
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "SVG Logo Maker with user inputs using nodejs and OOP",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ErFaizanMemon/SVG-Logo-Maker.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ErFaizanMemon/SVG-Logo-Maker/issues"
+    },
+    "homepage": "https://github.com/ErFaizanMemon/SVG-Logo-Maker#readme",
+    "devDependencies": {
+        "jest": "^24.9.0"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.5",
+        "svg": "^0.1.0",
+        "svg-builder": "^2.0.0",
+        "chroma-js": "2.4.2"
+    }
+}
