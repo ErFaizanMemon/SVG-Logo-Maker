@@ -1,1 +1,1 @@
-<svg width="500" height="300" version="1.1" xmlns="http://www.w3.org/2000/svg"><polygon points="250,60 100,400 400,400" class="triangle" fill="blue"/><text font-size="30px" x="220" y="220" fill="red">FAZ</text></svg>
+<svg width="500" height="300" version="1.1" xmlns="http://www.w3.org/2000/svg"><rect width="300" height="300" x="50" y="50" fill="Blue" /><text font-size="30px" x="200" y="190" text-anchor="middle" fill="Green">FAZ</text></svg>

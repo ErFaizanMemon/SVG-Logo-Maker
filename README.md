@@ -35,3 +35,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Deployment
 
+Github Link - https://github.com/ErFaizanMemon/SVG-Logo-Maker
+
+Webpage Link - https://erfaizanmemon.github.io/SVG-Logo-Maker/
+
+Video Walkthrough Link - 
