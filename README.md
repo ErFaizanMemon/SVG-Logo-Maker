@@ -39,4 +39,4 @@ Github Link - https://github.com/ErFaizanMemon/SVG-Logo-Maker
 
 Webpage Link - https://erfaizanmemon.github.io/SVG-Logo-Maker/
 
-Video Walkthrough Link - 
+Video Walkthrough Link - https://github.com/ErFaizanMemon/SVG-Logo-Maker/blob/master/Walkthrough.mp4
